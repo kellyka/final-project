@@ -1,0 +1,50 @@
+
+    .border {
+      border-bottom: solid 1px black;
+      padding-bottom: 5px;
+      clear: both;
+    }
+    
+    .float-left {
+      float: left;
+    }
+    
+    .bold {
+      font-weight: 700;
+    }
+    
+    a {
+      text-decoration: none;
+      color: #00A99D;
+    }
+    
+    .handle {
+      color: gray;
+      font-size: 11px;
+    }
+    
+    .twitter-pic {
+      
+     
+      padding-right: 10px;
+    }
+    
+    .name {
+      
+    }
+    
+    .font-small {
+      font-size: 11px;
+    }
+    
+    .tweet-div {
+      clear: both;
+      padding: 8px;
+      border-bottom: 1px dotted grey;
+    }
+    
+    .twitpic {
+      clear: both;
+      border-radius: 5px;
+    }
+
